@@ -110,7 +110,11 @@ AAII 看空比例 38.5%（偏高=逼空燃料）
 
 ## 框架来源
 
-本框架基于博主 **Art** 公开分享的投资分析方法论整理扩展。
+本框架基于博主 [**Art**](https://x.com/ArtofSpecuycky) 公开分享的投资分析方法论整理扩展。
+
+📎 原文出处：[@ArtofSpecuycky 的五维分析框架](https://x.com/ArtofSpecuycky/status/2059429371828637825)
+
+整理维护：[@Shawn_Invest](https://x.com/Shawn_Invest)
 
 内容标注说明：
 
