@@ -2,7 +2,7 @@
 
 # 五维股票/大盘分析框架
 
-基于博主 **Art** 的投资分析方法论，从五个维度综合分析个股和市场大盘
+基于博主 **Art of Speculation** 的投资分析方法论，从五个维度综合分析个股和市场大盘
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
